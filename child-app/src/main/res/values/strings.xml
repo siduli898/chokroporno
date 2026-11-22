@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NirapodFamily Child</string>
+    <string name="device_admin_label">নিরাপদফ্যামিলি সিকিউরিটি গার্ডিয়ান</string>
+    <string name="device_admin_description">প্যারেন্টাল সিকিউরিটি সক্রিয় রাখুন যাতে অ্যাপটি অনিচ্ছাকৃত আনইনস্টল থেকে সুরক্ষিত থাকে।</string>
+</resources>
